@@ -1,1 +1,1 @@
-# Automation-Pratice
+# Automation-Practice
